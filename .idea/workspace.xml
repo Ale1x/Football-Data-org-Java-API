@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f57ac450-6655-44b6-ab5f-76215d6687ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JetClient/state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/controller/AreaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/controller/CompetitionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/controller/MatchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/controller/TeamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Competition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/HalfTimeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/model/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/service/ApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/utils/JsonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/wrappers/CompetitionsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/passarelli/wrappers/MatchesResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/passarelli/controller/AreaControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/passarelli/controller/CompetitionControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/passarelli/controller/MatchControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/passarelli/controller/TeamControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/passarelli/service/ApiServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2emB4HNzrOqRkg246fZ8ECFsvyV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.ApiServiceTest.executor": "Run",
+    "JUnit.ApiServiceTest.sendGetRequestReturnsResponse.executor": "Run",
+    "JUnit.AreaControllerTest.executor": "Run",
+    "JUnit.AreaControllerTest.getDataThrowsExceptionWhenApiFails.executor": "Run",
+    "JUnit.AreaControllerTest.getDataThrowsExceptionWhenDeserializationFails.executor": "Run",
+    "JUnit.CompetitionControllerTest.executor": "Run",
+    "JUnit.MatchControllerTest.executor": "Run",
+    "JUnit.TeamControllerTest.executor": "Run",
+    "Maven.FootballData [clean,compile...].executor": "Run",
+    "Maven.FootballData [clean,package].executor": "Run",
+    "Maven.FootballData [org.apache.maven.plugins:maven-jar-plugin:3.3.0:jar].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ivano/IdeaProjects/FootballData/src/main/java/dev/ale1x/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile assembly:single" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiServiceTest.sendGetRequestReturnsResponse">
+    <configuration name="ApiServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FootballData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.passarelli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.passarelli.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.passarelli.service.ApiServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiServiceTest.sendGetRequestReturnsResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FootballData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.passarelli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.passarelli.service" />
+      <option name="MAIN_CLASS_NAME" value="dev.passarelli.service.ApiServiceTest" />
+      <option name="METHOD_NAME" value="sendGetRequestReturnsResponse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FootballData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.passarelli.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.passarelli.controller" />
+      <option name="MAIN_CLASS_NAME" value="dev.passarelli.controller.CompetitionControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FootballData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.passarelli.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.passarelli.controller" />
+      <option name="MAIN_CLASS_NAME" value="dev.passarelli.controller.MatchControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FootballData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.passarelli.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.passarelli.controller" />
+      <option name="MAIN_CLASS_NAME" value="dev.passarelli.controller.TeamControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiServiceTest.sendGetRequestReturnsResponse" />
+        <item itemvalue="JUnit.ApiServiceTest" />
+        <item itemvalue="JUnit.TeamControllerTest" />
+        <item itemvalue="JUnit.MatchControllerTest" />
+        <item itemvalue="JUnit.CompetitionControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57ac450-6655-44b6-ab5f-76215d6687ee" name="Changes" comment="" />
+      <created>1712499680372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712499680372</updated>
+      <workItem from="1712499681274" duration="6369000" />
+      <workItem from="1712506093697" duration="8209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
